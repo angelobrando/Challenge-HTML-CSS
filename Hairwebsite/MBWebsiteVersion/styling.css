@@ -1,0 +1,20 @@
+#tdpadding{
+    background-color: black;
+    margin: auto;
+    height: 290px;
+}
+li{
+
+    margin-right: 37px;
+
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+p{
+    font-family: 'Oswald' ;
+}
